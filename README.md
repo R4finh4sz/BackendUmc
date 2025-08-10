@@ -32,9 +32,10 @@ Este é um projeto backend básico construído com **Node.js** e **TypeScript**,
 Clone o repositório:
 
 git clone https://github.com/R4finh4sz/BackendUmc.git
+
 cd BackendUmc
 
-Instale as dependências:
+🤖 Instale as dependências:
 
 npm install
 
@@ -42,15 +43,14 @@ ou
 
 yarn
 
-Ele deve iniciar como padrão na porta
-PORT=3000
-
-Execute o projeto:
+💻 Execute o projeto:
 
 npm run dev
 
 ou
+
 yarn dev
+
 O servidor será iniciado em http://localhost:3000
 
 📚 Créditos
